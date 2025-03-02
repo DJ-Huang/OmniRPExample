@@ -1,0 +1,20 @@
+﻿.idea
+DCC/.autosave
+Library
+Logs
+obj
+Temp
+*.csproj
+*.sln
+UserSettings
+Build
+*.blend1
+Assets/Lux URP Essentials
+Assets/Lux URP Essentials.meta
+DCC
+MemoryCaptures
+*.blend
+Assets/Demos/Demo_CarInterior/Art
+Assets/Demos/Demo_CarInterior/CarInter
+Assets/Demos/Demo_CarInterior/Scene
+Assets/Demos/Demo_CarInterior/Setting
