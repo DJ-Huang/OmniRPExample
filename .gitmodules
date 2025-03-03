@@ -1,0 +1,3 @@
+[submodule "Packages/com.unity.renderpipeline.omni"]
+	path = Packages/com.unity.renderpipeline.omni
+	url = git@github.com:DJ-Huang/Omni-Render-Pipeline.git
